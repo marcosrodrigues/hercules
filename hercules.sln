@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hercules.Web", "hercules.Web\hercules.Web.csproj", "{260DE1B0-E76E-47A8-9A76-49FE5E9CB6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hercules.Entidades", "hercules.Entidades\hercules.Entidades.csproj", "{FE6F0A60-B117-4AA1-9525-C7AC985B26EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hercules.Dados", "hercules.Dados\hercules.Dados.csproj", "{D2694925-EE74-410A-8C4F-AB59CAB65372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260DE1B0-E76E-47A8-9A76-49FE5E9CB6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260DE1B0-E76E-47A8-9A76-49FE5E9CB6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260DE1B0-E76E-47A8-9A76-49FE5E9CB6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260DE1B0-E76E-47A8-9A76-49FE5E9CB6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6F0A60-B117-4AA1-9525-C7AC985B26EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6F0A60-B117-4AA1-9525-C7AC985B26EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6F0A60-B117-4AA1-9525-C7AC985B26EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6F0A60-B117-4AA1-9525-C7AC985B26EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2694925-EE74-410A-8C4F-AB59CAB65372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2694925-EE74-410A-8C4F-AB59CAB65372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2694925-EE74-410A-8C4F-AB59CAB65372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2694925-EE74-410A-8C4F-AB59CAB65372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
