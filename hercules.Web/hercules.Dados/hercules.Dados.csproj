@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{7246F26E-877A-4BD2-851E-DA59CB409238}</ProjectGuid>
+    <ProjectGuid>{EDBBCFAB-A7CB-4283-97A6-FB6B7A0B2B25}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>hercules.Entidades</RootNamespace>
-    <AssemblyName>hercules.Entidades</AssemblyName>
+    <RootNamespace>hercules.Dados</RootNamespace>
+    <AssemblyName>hercules.Dados</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

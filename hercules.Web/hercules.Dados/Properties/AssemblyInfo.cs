@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("hercules.Entidades")]
+[assembly: AssemblyTitle("hercules.Dados")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("hercules.Entidades")]
+[assembly: AssemblyProduct("hercules.Dados")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c7481a3e-ddb8-4580-b0e4-b6c708a62129")]
+[assembly: Guid("c2e9c907-9a20-48e6-b707-41c29e0dfe68")]
 
 // Version information for an assembly consists of the following four values:
 //
